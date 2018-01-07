@@ -1,1 +1,3 @@
-p eval gets.chomp
+while true do
+    p eval gets.chomp
+end
